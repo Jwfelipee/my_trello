@@ -15,6 +15,15 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Organizar as tarefas do dia a dia
 - Mostrar que é não é tão difícil assim criar um sistema parecido com o Trello
 
+### Funcionalidades 📌
+- Adicionar novas colunas
+- Adicionar novas tarefas
+- Mover as tarefas entre as listas
+- Remover as tarefas
+- Remover as colunas
+- Ordenar as tarefas dentro das colunas
+- Ordenar as colunas
+
 ### Como rodar o projeto 🤔
 ```
 # Clone o repositório
