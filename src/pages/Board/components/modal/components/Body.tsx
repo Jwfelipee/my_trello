@@ -13,11 +13,11 @@ const height = {
 };
 
 const width = {
-	small: 'w-[70vh] max-w-[450px]',
-	medium: 'w-[80vh] max-w-[550px]',
-	large: 'w-[90vh] max-w-[650px]',
-	xlarge: 'w-[90vh] max-w-[750px]',
-	xxlarge: 'w-[90vh] max-w-[850px]',
+	small: 'w-[70vw] max-w-[450px]',
+	medium: 'w-[80vw] max-w-[550px]',
+	large: 'w-[90vw] max-w-[650px]',
+	xlarge: 'w-[90vw] max-w-[750px]',
+	xxlarge: 'w-[90vw] max-w-[850px]',
 };
 
 export function Body({ children, X = 'medium', Y = 'medium', ...rest }: BodyProps) {

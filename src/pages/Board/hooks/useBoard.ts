@@ -66,7 +66,6 @@ export const useBoard = () => {
 
 	const removeItem = (column: string, id: string) => {
 		const columnData = data[column];
-		console.log(columnData)
 		const index = columnData.findIndex(item => item.id === id);
 		columnData.splice(index, 1);
 		setData({ ...data, [column]: columnData });
